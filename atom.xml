@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/yujianburning/-burning.github.com.git/"/>
+  <link href="git@github.com/yujianburning/-burning.github.com.git/"/>
   <updated>2017-08-02T01:19:46.613Z</updated>
-  <id>https://github.com/yujianburning/-burning.github.com.git/</id>
+  <id>git@github.com/yujianburning/-burning.github.com.git/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/"/>
-    <id>https://github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/</id>
+    <link href="git@github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/"/>
+    <id>git@github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/</id>
     <published>2018-04-10T07:25:00.082Z</published>
     <updated>2017-08-02T01:19:46.613Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>水平垂直居中</title>
-    <link href="https://github.com/yujianburning/-burning.github.com.git/2017/08/02/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/"/>
-    <id>https://github.com/yujianburning/-burning.github.com.git/2017/08/02/水平垂直居中/</id>
+    <link href="git@github.com/yujianburning/-burning.github.com.git/2017/08/02/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/"/>
+    <id>git@github.com/yujianburning/-burning.github.com.git/2017/08/02/水平垂直居中/</id>
     <published>2017-08-02T06:10:34.000Z</published>
     <updated>2017-08-02T06:53:29.315Z</updated>
     
@@ -57,14 +57,14 @@
     </summary>
     
     
-      <category term="css" scheme="https://github.com/yujianburning/-burning.github.com.git/tags/css/"/>
+      <category term="css" scheme="git@github.com/yujianburning/-burning.github.com.git/tags/css/"/>
     
   </entry>
   
   <entry>
     <title>es6</title>
-    <link href="https://github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/"/>
-    <id>https://github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/</id>
+    <link href="git@github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/"/>
+    <id>git@github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/</id>
     <published>2017-03-10T03:19:04.000Z</published>
     <updated>2018-04-10T08:49:24.939Z</updated>
     
@@ -76,10 +76,10 @@
     
     </summary>
     
-      <category term="-Js" scheme="https://github.com/yujianburning/-burning.github.com.git/categories/Js/"/>
+      <category term="-Js" scheme="git@github.com/yujianburning/-burning.github.com.git/categories/Js/"/>
     
     
-      <category term="es6" scheme="https://github.com/yujianburning/-burning.github.com.git/tags/es6/"/>
+      <category term="es6" scheme="git@github.com/yujianburning/-burning.github.com.git/tags/es6/"/>
     
   </entry>
   
