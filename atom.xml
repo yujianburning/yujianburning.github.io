@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="git@github.com/yujianburning/-burning.github.com.git/"/>
+  <link href="git@github.com:yujianburning/-burning.github.com.git/"/>
   <updated>2017-08-02T01:19:46.613Z</updated>
-  <id>git@github.com/yujianburning/-burning.github.com.git/</id>
+  <id>git@github.com:yujianburning/-burning.github.com.git/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="git@github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/"/>
-    <id>git@github.com/yujianburning/-burning.github.com.git/2018/04/10/hello-world/</id>
+    <link href="git@github.com:yujianburning/-burning.github.com.git/2018/04/10/hello-world/"/>
+    <id>git@github.com:yujianburning/-burning.github.com.git/2018/04/10/hello-world/</id>
     <published>2018-04-10T07:25:00.082Z</published>
     <updated>2017-08-02T01:19:46.613Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>水平垂直居中</title>
-    <link href="git@github.com/yujianburning/-burning.github.com.git/2017/08/02/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/"/>
-    <id>git@github.com/yujianburning/-burning.github.com.git/2017/08/02/水平垂直居中/</id>
+    <link href="git@github.com:yujianburning/-burning.github.com.git/2017/08/02/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/"/>
+    <id>git@github.com:yujianburning/-burning.github.com.git/2017/08/02/水平垂直居中/</id>
     <published>2017-08-02T06:10:34.000Z</published>
     <updated>2017-08-02T06:53:29.315Z</updated>
     
@@ -57,14 +57,14 @@
     </summary>
     
     
-      <category term="css" scheme="git@github.com/yujianburning/-burning.github.com.git/tags/css/"/>
+      <category term="css" scheme="git@github.com:yujianburning/-burning.github.com.git/tags/css/"/>
     
   </entry>
   
   <entry>
     <title>es6</title>
-    <link href="git@github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/"/>
-    <id>git@github.com/yujianburning/-burning.github.com.git/2017/03/10/es6/</id>
+    <link href="git@github.com:yujianburning/-burning.github.com.git/2017/03/10/es6/"/>
+    <id>git@github.com:yujianburning/-burning.github.com.git/2017/03/10/es6/</id>
     <published>2017-03-10T03:19:04.000Z</published>
     <updated>2018-04-10T08:49:24.939Z</updated>
     
@@ -76,10 +76,10 @@
     
     </summary>
     
-      <category term="-Js" scheme="git@github.com/yujianburning/-burning.github.com.git/categories/Js/"/>
+      <category term="-Js" scheme="git@github.com:yujianburning/-burning.github.com.git/categories/Js/"/>
     
     
-      <category term="es6" scheme="git@github.com/yujianburning/-burning.github.com.git/tags/es6/"/>
+      <category term="es6" scheme="git@github.com:yujianburning/-burning.github.com.git/tags/es6/"/>
     
   </entry>
   
